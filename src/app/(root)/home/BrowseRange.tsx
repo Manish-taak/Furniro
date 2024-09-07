@@ -2,7 +2,9 @@ import React from 'react'
 
 const BrowseRange = () => {
     return (
-        <div>BrowseRange</div>
+        <div>
+            <h2>BrowseRange</h2>
+        </div>
     )
 }
 

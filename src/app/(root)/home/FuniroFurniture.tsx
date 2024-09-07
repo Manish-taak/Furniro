@@ -2,7 +2,8 @@ import React from 'react'
 
 const FuniroFurniture = () => {
     return (
-        <div>FuniroFurniture</div>
+        <div><h2>
+            FuniroFurniture</h2></div>
     )
 }
 
